@@ -1,0 +1,82 @@
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe.config
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).pdb
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csprojResolveAssemblyReference.cache
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Properties.Resources.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.GenerateResource.Cache
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.CoreCompileInputs.cache
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).exe
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).pdb
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.F1.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.FTest.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Ready_Form.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Question_Selector.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Finish_Form.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Results.resources
+C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Calculator.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe.config
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).pdb
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Calculator.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Finish_Form.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.F1.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.FTest.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Properties.Resources.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Question_Selector.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Ready_Form.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.GenerateResource.cache
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.CoreCompileInputs.cache
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).exe
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).pdb
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe.config
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).pdb
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csprojAssemblyReference.cache
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Calculator.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Finish_Form.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.F1.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.FTest.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Properties.Resources.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Question_Selector.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Ready_Form.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Results.resources
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.GenerateResource.cache
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.CoreCompileInputs.cache
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).exe
+C:\Users\Bucky\Desktop\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).pdb
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.ESbut.resources
+D:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csprojAssemblyReference.cache
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).exe
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).pdb
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe.config
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).pdb
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.AssemblyReference.cache
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.SuggestedBindingRedirects.cache
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Calculator.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Finish_Form.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.F1.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.FTest.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Properties.Resources.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Question_Selector.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Ready_Form.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.ESbut.resources
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.GenerateResource.cache
+E:\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.CoreCompileInputs.cache
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe.config
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).exe
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\bin\Debug\Congressional App Challenge C(Sharp).pdb
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.AssemblyReference.cache
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.SuggestedBindingRedirects.cache
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Calculator.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Finish_Form.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.F1.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.FTest.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Properties.Resources.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Question_Selector.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.Ready_Form.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional_App_Challenge_C_Sharp_.ESbut.resources
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.GenerateResource.cache
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).csproj.CoreCompileInputs.cache
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).exe
+E:\Non-School Programing\Congressional App Challenge C#\Congressional App Challenge C(Sharp)\obj\Debug\Congressional App Challenge C(Sharp).pdb
