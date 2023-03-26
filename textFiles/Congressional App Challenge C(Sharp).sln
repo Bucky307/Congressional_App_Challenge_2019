@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congressional App Challenge C(Sharp)", "Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp).csproj", "{06CA4889-E485-4744-9DAB-F22C36D126BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FC010615-E992-44A1-974A-E185010A4657}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\Results.Designer.cs = C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\Results.Designer.cs
+		C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\Results.resx = C:\Users\270045132\source\repos\Congressional App Challenge C(Sharp)\Congressional App Challenge C(Sharp)\Results.resx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CA4889-E485-4744-9DAB-F22C36D126BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CA4889-E485-4744-9DAB-F22C36D126BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CA4889-E485-4744-9DAB-F22C36D126BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CA4889-E485-4744-9DAB-F22C36D126BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2373624D-E2B4-4096-94C0-2708E1020F57}
+	EndGlobalSection
+EndGlobal
